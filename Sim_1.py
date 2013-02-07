@@ -10,6 +10,9 @@ import numpy
 na = 50
 nu = 50
 nb = 50
+na = 50 # nombre d'acteurs
+nu = 50 # nombre d'utilisateurs
+nb = 50 # nombre de bosquets
 
 prob = 1
 
